@@ -14,18 +14,18 @@ global.setting = {
  }
 
 global.info = {
- nomerbot : '212605784394',
- pairingNumber : '212605784394',
- figlet: 'silanalite', // create a start console display
- nomorwa : '212605784394',
- nameown : 'NOUREDDINE',
- nomerown : '212717457920',
+ nomerbot : '212654340082',
+ pairingNumber : '212654340082',
+ figlet: 'RifGhos, // create a start console display
+ nomorwa : '212654340082',
+ nameown : 'MTECH99',
+ nomerown : '212654340082',
  packname : 'sticker by ',
- author : 'SILANA AI',
- namebot : '乂 SILANA AI',
- wm : 'SILANA LITE.',
+ author : 'RifGhos AI',
+ namebot : '乂 RIFGHOS AI',
+ wm : 'RIFGHOS LITE.',
  stickpack : 'Whatsapp',
- stickauth : 'SILANA LITE',
+ stickauth : 'RIFGHOS LITE',
  jid: '@s.whatsapp.net'
 }
 
@@ -52,9 +52,9 @@ global.media = {
 }
 // Social media
 global.url = {
- sig: 'https://instagram.com/noureddine_ouafy',
- sgh:  'https://instagram.com/noureddine_ouafy',
- sgc: 'https://whatsapp.com/channel/0029VaX4b6J7DAWqt3Hhu01A'
+ sig: 'https://www.instagram.com/m.tech99',
+ sgh:  'https://www.instagram.com/m.tech99',
+ sgc: 'https://whatsapp.com/channel/0029VamViDo2kNFlP0rJdw0v'
 }
 // Donasi
 global.payment = {
