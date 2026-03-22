@@ -6,7 +6,7 @@ import { fileURLToPath } from 'url'
 
 // Owner
 global.owner = [
-['212717457920', 'Noureddine', true]
+['212654340082', 'Mohamed', true]
 ]
 global.mods = []
 global.prems = []
@@ -132,4 +132,5 @@ watchFile(file, () => {
   unwatchFile(file)
   console.log(chalk.redBright("Update 'config.js'"))
   import(`${file}?update=${Date.now()}`)
+})
 })
