@@ -16,11 +16,11 @@ global.setting = {
 global.info = {
  nomerbot : '212654340082',
  pairingNumber : '212654340082',
- figlet: 'RifGhos, // create a start console display
+ figlet: 'RifGhos', // create a start console display
  nomorwa : '212654340082',
  nameown : 'MTECH99',
  nomerown : '212654340082',
- packname : 'sticker by ',
+ packname : 'sticker by',
  author : 'RifGhos AI',
  namebot : '乂 RIFGHOS AI',
  wm : 'RIFGHOS LITE.',
